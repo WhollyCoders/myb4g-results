@@ -1,0 +1,5 @@
+*{padding: 0px; margin: 0px;}
+.container{width: 80%; margin: 60px auto;}
+header{text-align: center;}
+section h1, section h2{text-align: center;}
+section h1{color: #6c93d1;}
