@@ -1,5 +1,6 @@
 *{padding: 0px; margin: 0px;}
-.container{width: 80%; margin: 60px auto;}
+.container{width: 70%; margin: 60px auto;}
 header{text-align: center;}
 section h1, section h2{text-align: center;}
 section h1{color: #6c93d1;}
+#table-team-names{width: 50%; margin: 0px auto;}
